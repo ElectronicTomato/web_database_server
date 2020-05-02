@@ -1,0 +1,641 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"def",
+				"default"
+			],
+			[
+				"ref",
+				"ref_grad_vec"
+			],
+			[
+				"f",
+				"fmeasure"
+			],
+			[
+				"rougeL_f",
+				"rougeL_f"
+			],
+			[
+				"rougel",
+				"rougeLsum"
+			],
+			[
+				"rou",
+				"rougelsum_p"
+			],
+			[
+				"so",
+				"scores"
+			],
+			[
+				"sum",
+				"summary"
+			],
+			[
+				"s",
+				"score"
+			],
+			[
+				"roug",
+				"rouge_history"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"grad",
+				"grad_0"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"cus",
+				"customer_"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"insur",
+				"insur_id"
+			],
+			[
+				"pu",
+				"purchaseday"
+			],
+			[
+				"hom",
+				"homeid"
+			],
+			[
+				"home",
+				"homearea"
+			],
+			[
+				"cut",
+				"customer_history"
+			],
+			[
+				"label",
+				"label_map"
+			],
+			[
+				"ex",
+				"example"
+			],
+			[
+				"data",
+				"data_dir"
+			],
+			[
+				"te",
+				"text_b"
+			],
+			[
+				"tex",
+				"text_a"
+			],
+			[
+				"de",
+				"default_data"
+			],
+			[
+				"col",
+				"col"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"pc",
+				"pc_binary"
+			],
+			[
+				"to",
+				"toBinary"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"st",
+				"strong_nottaken"
+			],
+			[
+				"we",
+				"weakly_nottaken"
+			],
+			[
+				"w",
+				"weakly_taken"
+			],
+			[
+				"str",
+				"strong_taken"
+			],
+			[
+				"sa",
+				"saturate"
+			],
+			[
+				"coun",
+				"counter_col"
+			],
+			[
+				"counter_",
+				"counter_num"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"Tr",
+				"true"
+			],
+			[
+				"eig",
+				"eig_val"
+			],
+			[
+				"ei",
+				"eig_vec"
+			],
+			[
+				"cov",
+				"cov_image"
+			],
+			[
+				"E",
+				"eig_pairs"
+			],
+			[
+				"ne",
+				"new_data_reduced"
+			],
+			[
+				"eig_",
+				"eig_pairs"
+			],
+			[
+				"eig_v",
+				"eig_val"
+			],
+			[
+				"sc",
+				"scaled_image"
+			],
+			[
+				"image",
+				"image_mean"
+			],
+			[
+				"im",
+				"image_mean"
+			],
+			[
+				"tea",
+				"teapot_images"
+			],
+			[
+				"R",
+				"RFfile"
+			],
+			[
+				"m",
+				"mybit_int"
+			],
+			[
+				"my",
+				"mybit"
+			],
+			[
+				"theta",
+				"theta_history"
+			],
+			[
+				"ri",
+				"risk_history"
+			],
+			[
+				"it",
+				"iteration"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"sh",
+				"shape"
+			],
+			[
+				"t",
+				"theta"
+			],
+			[
+				"Read",
+				"ReadData1"
+			],
+			[
+				"RdRe",
+				"RdReg1"
+			],
+			[
+				"W",
+				"WrtEnable"
+			],
+			[
+				"Rd",
+				"RdReg1"
+			],
+			[
+				"0x",
+				"0x1"
+			],
+			[
+				"L",
+				"L2_para"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/manage.py",
+			"settings":
+			{
+				"buffer_size": 629,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+			"pc",
+			"ls",
+			"l's"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/gracehuang/github/web_db_server",
+		"/Users/gracehuang/github/web_db_server/src"
+	],
+	"file_history":
+	[
+		"/Users/gracehuang/github/continue_leanrning_agem/agem_minist.sh",
+		"/Users/gracehuang/Desktop/NLU/assignment/hw4/run.sbatch",
+		"/Users/gracehuang/Desktop/NLU/assignment/transformer_task/run.sbatch",
+		"/usr/local/lib/python3.7/site-packages/rouge_score/rouge_scorer.py",
+		"/Users/gracehuang/github/agem/model/model.py",
+		"/Users/gracehuang/Desktop/NLU/rouge/rougue_test.py",
+		"/Users/gracehuang/Desktop/NLU/project/rougue_test.py",
+		"/Users/gracehuang/Desktop/NLU/project/rouge/rouge_test.py",
+		"/Users/gracehuang/Desktop/NLU/project/rouge/rouge/rouge.py",
+		"/Users/gracehuang/Desktop/NLU/project/rouge/rouge/rouge_score.py",
+		"/Users/gracehuang/Desktop/NLU/project/rouge/test_basic.py",
+		"/Users/gracehuang/Downloads/cnn/stories/0a0a4c90d59df9e36ffec4ba306b4f20f3ba4acb.story",
+		"/Users/gracehuang/Library/Mobile Documents/com~apple~CloudDocs/课件/DB/assignment/Project/check_generaor.py",
+		"/Users/gracehuang/Downloads/trisurf3d_demo.py",
+		"/Users/gracehuang/Library/Mobile Documents/com~apple~CloudDocs/课件/DB/assignment/grading_assignment2/student_activity.ddl",
+		"/Users/gracehuang/Desktop/NLU/assignment/transformers/examples/run_glue.py",
+		"/Users/gracehuang/Desktop/NLU/assignment/transformer_task/untitled.py",
+		"/Users/gracehuang/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/260b5a77a888e951915f823df6cea52b/Message/MessageTemp/4a2b5223786ef56e7ba9791c85b3de67/File/p2.py",
+		"/Users/gracehuang/Desktop/NLU/assignment/transformers/src/transformers/data/processors/glue.py",
+		"/Users/gracehuang/Desktop/NLU/assignment/transformers/src/transformers/__init__.py",
+		"/Users/gracehuang/Downloads/student_schema_setup.sql",
+		"/Users/gracehuang/Library/Mobile Documents/com~apple~CloudDocs/课件/AML/PyTorch-Tutorial-Spring-2020/recitation1/classification/main.py",
+		"/Users/gracehuang/Library/Mobile Documents/com~apple~CloudDocs/课件/DL/assignment/homework1/mark_goldstein_mg3479_A1.tex",
+		"/Users/gracehuang/Desktop/CSA/LAB/lab2/12_2trace.txt.out",
+		"/Users/gracehuang/Desktop/CSA/LAB/lab2_modify/trace.txt.out",
+		"/Users/gracehuang/Desktop/CSA/LAB/lab2_modify/branchsimulator.cpp",
+		"/Users/gracehuang/Desktop/CSA/LAB/lab2_modify/branchsimulator_skeleton (2).cpp",
+		"/Users/gracehuang/Downloads/trace.txt",
+		"/Users/gracehuang/Desktop/CSA/LAB/untitled folder/branchsimulator.cpp",
+		"/Users/gracehuang/Desktop/CSA/LAB/untitled folder/trace.txt 1.out",
+		"/Users/gracehuang/Desktop/CSA/LAB/untitled folder/trace.txt.out",
+		"/Users/gracehuang/Desktop/CSA/LAB/lab2/branchsimulator_skeleton.cpp",
+		"/Users/gracehuang/Downloads/branchsimulator_skeleton (2).cpp",
+		"/Users/gracehuang/Desktop/CSA/LAB/lab2/trace.txt.out",
+		"/Users/gracehuang/Desktop/CSA/LAB/lab2/trace.txt",
+		"/Users/gracehuang/Downloads/branchsimulator_skeleton.cpp",
+		"/Users/gracehuang/Desktop/leetcode/add_two_numbers",
+		"/Users/gracehuang/Desktop/test_leet.py",
+		"/Users/gracehuang/Downloads/YUANRUI_HUANG_LAB1/MIPS_PIPELINE.cpp",
+		"/Users/gracehuang/Desktop/CSA/Progamming_midterm/example.cpp",
+		"/Users/gracehuang/Desktop/CSA/Progamming_midterm/CA19-midterm-problems/beq_EX/MIPS_pipeline_base_code.cpp",
+		"/Users/gracehuang/Desktop/CSA/Progamming_midterm/Stalling/MIPS_pipeline.cpp",
+		"/Users/gracehuang/Desktop/CSA/Progamming_midterm/IPC_solution/MIPS_pipeline_IPC.cpp",
+		"/Users/gracehuang/Downloads/MIPS_pipeline_grading.cpp",
+		"/Users/gracehuang/Desktop/CSA/LAB/lab1/Code-2018/MIPS_pipeline.cpp",
+		"/Users/gracehuang/Desktop/CSA/LAB/YUANRUI_HUANG_LAB1/MIPS_PIPELINE.cpp",
+		"/Users/gracehuang/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/260b5a77a888e951915f823df6cea52b/Message/MessageTemp/e1ca32738305b43c1a3cd2c121dae656/File/MIPS_pipeline.cpp",
+		"/Users/gracehuang/Desktop/MIPS_PIPELINE/main.cpp",
+		"/Users/gracehuang/Desktop/CSA/LAB/LAB0/test/test/main.cpp",
+		"/Users/gracehuang/Downloads/MIPS_solution.cpp",
+		"/Users/gracehuang/Desktop/CSA/LAB/LAB0/MIPS.cpp",
+		"/Users/gracehuang/Library/Mobile Documents/com~apple~CloudDocs/课件/ML/assign/assign3/test.py",
+		"/Users/gracehuang/Desktop/test.py",
+		"/Users/gracehuang/Downloads/MIPS.cpp",
+		"/Users/gracehuang/Desktop/ML/assign/assign2/test.py",
+		"/Users/gracehuang/Desktop/ML/assign/assign2/test2.py",
+		"/Users/gracehuang/Desktop/ML/assign/test.py",
+		"/Users/gracehuang/Desktop/java/fall-2019-ii-homework-2-yw3408-master/src/main/java/edu/nyu/cs9053/homework2/VehicleDataParser.java",
+		"/Users/gracehuang/Desktop/ML/assign/assign1/test.py",
+		"/Users/gracehuang/Desktop/ML/assign/assign1/homework1.py",
+		"/Users/gracehuang/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/gracehuang/Desktop/untitled.py",
+		"/Users/gracehuang/Desktop/ML/作业/作业一/polyreg.m",
+		"/Users/gracehuang/.oh-my-zsh/themes/agnoster.zsh-theme"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/manage.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								590,
+								591
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 35.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "django_server.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/github/agem/model/model.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
